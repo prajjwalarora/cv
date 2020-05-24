@@ -88,6 +88,10 @@ hr{
  
 }
 
+.mountain-img{
+max-width: 100%;
+  height: auto;
+}
 .profile-image{
     width: 150px;
     height: 150px;
